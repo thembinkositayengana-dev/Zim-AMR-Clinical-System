@@ -1,0 +1,751 @@
+Record_ID,Date,Organism,Specimen,Age,Gender,Ward,Admission_Status,Prev_Resistance,Antibiotic,Result
+1,2023-07-12,S. aureus (MRSA),Wound,75,Male,Maternity,Walk-in,Unknown,Amoxicillin,Susceptible
+2,2023-07-05,E_coli,CSF,55,Male,Maternity,Walk-in,No,Amoxicillin,Susceptible
+3,2025-03-23,Klebsiella pneumoniae,Urine,29,Male,Outpatient,Walk-in,Yes,Gentamicin,Resistant
+4,2024-09-23,S. aureus (MRSA),CSF,88,Male,ICU,Walk-in,Unknown,Gentamicin,Susceptible
+5,2023-05-03,Klebsiella pneumoniae,CSF,27,Female,General Medicine,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+6,2024-05-23,S. aureus (MRSA),Blood,90,Male,Outpatient,Walk-in,No,Gentamicin,Susceptible
+7,2023-05-30,S. aureus (MRSA),Urine,66,Female,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+8,2023-06-08,S. aureus (MRSA),CSF,74,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Susceptible
+9,2023-07-11,S. aureus (MRSA),Wound,61,Male,Outpatient,Walk-in,No,Gentamicin,Susceptible
+10,2024-12-11,S. aureus (MRSA),Urine,60,Female,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+11,2023-09-22,E_coli,Blood,51,Female,General Medicine,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+12,2023-10-08,E_coli,Sputum,71,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+13,2023-11-06,S. aureus (MRSA),Blood,85,Male,ICU,Walk-in,Yes,Gentamicin,Susceptible
+14,2023-10-26,Pseudomonas,Sputum,69,Female,ICU,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+15,2023-04-21,Klebsiella pneumoniae,Sputum,88,Female,Outpatient,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+16,2023-05-08,Pseudomonas,Blood,9,Male,General Medicine,Hospitalized > 48hrs,No,Meropenem,Susceptible
+17,2023-01-01,Klebsiella pneumoniae,CSF,20,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+18,2024-05-31,E_coli,Wound,78,Female,ICU,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+19,2024-09-30,E_coli,Urine,19,Male,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+20,2025-12-17,S. aureus (MRSA),Wound,19,Male,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+21,2023-12-09,E_coli,Wound,29,Female,Neonatal Ward,Walk-in,Unknown,Ciprofloxacin,Susceptible
+22,2024-02-14,Klebsiella pneumoniae,CSF,64,Female,Maternity,Walk-in,Unknown,Ceftriaxone,Resistant
+23,2024-12-06,E_coli,Sputum,45,Female,Maternity,Walk-in,No,Gentamicin,Susceptible
+24,2024-02-23,Klebsiella pneumoniae,Sputum,80,Male,ICU,Hospitalized > 48hrs,No,Ceftriaxone,Susceptible
+25,2024-02-13,S. aureus (MRSA),Sputum,23,Female,General Medicine,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+26,2023-06-23,E_coli,Blood,22,Male,Maternity,Walk-in,No,Ciprofloxacin,Susceptible
+27,2025-08-29,Klebsiella pneumoniae,Wound,20,Male,Maternity,Walk-in,Unknown,Gentamicin,Susceptible
+28,2023-10-13,E_coli,Sputum,25,Male,General Medicine,Walk-in,Unknown,Ciprofloxacin,Resistant
+29,2024-10-29,S. aureus (MRSA),Wound,70,Female,Neonatal Ward,Walk-in,Unknown,Amoxicillin,Susceptible
+30,2025-11-24,E_coli,Sputum,65,Male,Neonatal Ward,Walk-in,No,Ciprofloxacin,Susceptible
+31,2023-11-03,E_coli,Blood,19,Female,ICU,Walk-in,Unknown,Gentamicin,Susceptible
+32,2023-08-06,E_coli,CSF,8,Male,Outpatient,Walk-in,Unknown,Gentamicin,Susceptible
+33,2023-02-27,S. aureus (MRSA),Urine,57,Female,General Medicine,Walk-in,Unknown,Amoxicillin,Resistant
+34,2025-11-05,S. aureus (MRSA),Blood,90,Female,Outpatient,Walk-in,Unknown,Gentamicin,Resistant
+35,2024-10-09,Pseudomonas,Urine,86,Male,Maternity,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+36,2023-11-13,E_coli,Wound,19,Female,Neonatal Ward,Walk-in,Yes,Amoxicillin,Resistant
+37,2023-11-30,Pseudomonas,Blood,21,Female,General Medicine,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+38,2025-01-19,S. aureus (MRSA),Urine,44,Female,ICU,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+39,2025-11-15,E_coli,Urine,15,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+40,2024-01-07,E_coli,Wound,17,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+41,2024-10-31,Pseudomonas,Urine,36,Male,Outpatient,Walk-in,Unknown,Ceftriaxone,Resistant
+42,2024-06-17,Pseudomonas,Urine,78,Male,Neonatal Ward,Walk-in,Yes,Ceftriaxone,Resistant
+43,2025-05-05,S. aureus (MRSA),Wound,80,Male,Maternity,Walk-in,Yes,Amoxicillin,Resistant
+44,2024-02-18,Klebsiella pneumoniae,Wound,81,Female,ICU,Walk-in,No,Ceftriaxone,Susceptible
+45,2024-12-11,S. aureus (MRSA),Urine,33,Male,Outpatient,Walk-in,Unknown,Gentamicin,Susceptible
+46,2025-11-19,E_coli,Sputum,32,Female,Outpatient,Walk-in,Unknown,Ciprofloxacin,Resistant
+47,2025-03-16,Pseudomonas,CSF,40,Male,Maternity,Walk-in,Unknown,Ciprofloxacin,Resistant
+48,2023-04-22,S. aureus (MRSA),Blood,2,Male,ICU,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+49,2025-02-19,Pseudomonas,CSF,86,Female,General Medicine,Walk-in,Yes,Ceftriaxone,Resistant
+50,2025-07-02,S. aureus (MRSA),Urine,34,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+51,2024-01-10,S. aureus (MRSA),Urine,43,Female,General Medicine,Walk-in,No,Amoxicillin,Susceptible
+52,2025-10-30,Pseudomonas,Urine,12,Female,Outpatient,Walk-in,Unknown,Meropenem,Susceptible
+53,2024-09-05,Klebsiella pneumoniae,Wound,81,Male,Outpatient,Walk-in,Yes,Meropenem,Susceptible
+54,2025-10-09,Klebsiella pneumoniae,Blood,37,Male,Outpatient,Walk-in,No,Gentamicin,Resistant
+55,2025-10-29,Pseudomonas,CSF,3,Male,Outpatient,Walk-in,Yes,Ciprofloxacin,Resistant
+56,2023-08-03,E_coli,Sputum,58,Male,ICU,Walk-in,Unknown,Amoxicillin,Resistant
+57,2023-05-24,Klebsiella pneumoniae,CSF,69,Male,Neonatal Ward,Walk-in,Yes,Meropenem,Susceptible
+58,2024-02-25,Pseudomonas,Blood,84,Female,General Medicine,Hospitalized > 48hrs,No,Meropenem,Susceptible
+59,2023-04-06,Pseudomonas,CSF,81,Male,Maternity,Walk-in,Unknown,Ceftriaxone,Susceptible
+60,2024-09-15,Klebsiella pneumoniae,CSF,73,Male,Neonatal Ward,Walk-in,Unknown,Meropenem,Susceptible
+61,2023-07-23,Pseudomonas,Blood,87,Female,Maternity,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+62,2024-02-13,S. aureus (MRSA),Wound,11,Female,Maternity,Walk-in,No,Gentamicin,Resistant
+63,2025-07-09,S. aureus (MRSA),Wound,50,Male,General Medicine,Walk-in,Unknown,Gentamicin,Resistant
+64,2024-06-20,E_coli,Wound,17,Female,General Medicine,Walk-in,Yes,Ciprofloxacin,Resistant
+65,2023-11-22,S. aureus (MRSA),Urine,63,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+66,2023-09-05,S. aureus (MRSA),Wound,1,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+67,2024-08-16,Pseudomonas,Wound,48,Male,ICU,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+68,2024-07-17,Pseudomonas,Urine,36,Male,General Medicine,Walk-in,No,Ciprofloxacin,Resistant
+69,2024-10-08,S. aureus (MRSA),Blood,48,Female,ICU,Walk-in,No,Amoxicillin,Resistant
+70,2023-04-12,Pseudomonas,Sputum,58,Male,Outpatient,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+71,2025-04-29,Pseudomonas,Wound,37,Female,Outpatient,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+72,2025-03-18,S. aureus (MRSA),Urine,22,Male,ICU,Walk-in,No,Gentamicin,Susceptible
+73,2024-11-12,Klebsiella pneumoniae,Sputum,55,Male,Maternity,Walk-in,Unknown,Gentamicin,Susceptible
+74,2024-10-15,Klebsiella pneumoniae,Blood,48,Female,ICU,Walk-in,No,Ceftriaxone,Resistant
+75,2025-12-09,E_coli,Blood,49,Female,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+76,2023-09-15,E_coli,CSF,68,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Resistant
+77,2025-06-03,S. aureus (MRSA),Wound,3,Male,Maternity,Walk-in,No,Amoxicillin,Resistant
+78,2023-05-30,Pseudomonas,Sputum,68,Female,Maternity,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+79,2023-08-12,Klebsiella pneumoniae,Sputum,11,Male,ICU,Walk-in,Yes,Ceftriaxone,Resistant
+80,2024-09-14,Klebsiella pneumoniae,Blood,81,Female,Outpatient,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+81,2024-01-28,E_coli,Sputum,34,Male,General Medicine,Walk-in,No,Amoxicillin,Resistant
+82,2024-10-09,E_coli,Blood,61,Male,Neonatal Ward,Walk-in,No,Ciprofloxacin,Susceptible
+83,2025-10-17,E_coli,Sputum,11,Female,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+84,2024-11-23,Pseudomonas,Sputum,47,Female,ICU,Walk-in,No,Meropenem,Susceptible
+85,2024-02-15,E_coli,Wound,25,Male,Outpatient,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+86,2025-10-12,Klebsiella pneumoniae,CSF,24,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Meropenem,Resistant
+87,2025-03-16,Pseudomonas,Urine,28,Male,General Medicine,Walk-in,Unknown,Ciprofloxacin,Susceptible
+88,2024-10-05,Pseudomonas,Urine,11,Male,General Medicine,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+89,2024-09-30,Klebsiella pneumoniae,Sputum,48,Female,Outpatient,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+90,2024-12-20,Klebsiella pneumoniae,Sputum,16,Male,General Medicine,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+91,2025-08-27,S. aureus (MRSA),Blood,48,Female,Maternity,Walk-in,Yes,Gentamicin,Susceptible
+92,2024-05-22,S. aureus (MRSA),Sputum,6,Female,Maternity,Walk-in,Yes,Gentamicin,Resistant
+93,2023-05-09,Pseudomonas,CSF,44,Female,General Medicine,Hospitalized > 48hrs,No,Ceftriaxone,Susceptible
+94,2024-10-10,S. aureus (MRSA),Wound,39,Male,Neonatal Ward,Walk-in,Unknown,Amoxicillin,Resistant
+95,2025-08-11,E_coli,Sputum,33,Female,General Medicine,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+96,2024-09-13,Klebsiella pneumoniae,Blood,78,Male,ICU,Hospitalized > 48hrs,Yes,Meropenem,Resistant
+97,2024-02-09,S. aureus (MRSA),Sputum,21,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+98,2024-10-29,E_coli,Blood,55,Male,General Medicine,Walk-in,No,Ciprofloxacin,Susceptible
+99,2025-07-04,S. aureus (MRSA),Blood,30,Male,ICU,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+100,2023-09-06,Pseudomonas,Wound,38,Female,ICU,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Resistant
+101,2024-01-16,S. aureus (MRSA),Blood,31,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+102,2024-05-18,Klebsiella pneumoniae,CSF,68,Male,General Medicine,Walk-in,No,Meropenem,Susceptible
+103,2024-04-18,Pseudomonas,Sputum,48,Male,General Medicine,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+104,2024-02-02,Klebsiella pneumoniae,Urine,48,Male,General Medicine,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+105,2024-12-17,S. aureus (MRSA),Blood,5,Female,General Medicine,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+106,2024-02-21,Klebsiella pneumoniae,Urine,42,Female,ICU,Hospitalized > 48hrs,No,Ceftriaxone,Susceptible
+107,2025-10-12,Klebsiella pneumoniae,CSF,62,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+108,2023-07-06,E_coli,Blood,51,Female,Outpatient,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+109,2025-01-01,S. aureus (MRSA),Sputum,54,Male,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+110,2025-06-08,Klebsiella pneumoniae,Blood,55,Male,Maternity,Walk-in,Yes,Meropenem,Resistant
+111,2023-09-24,Pseudomonas,Urine,7,Male,Neonatal Ward,Hospitalized > 48hrs,No,Ciprofloxacin,Resistant
+112,2023-12-18,E_coli,Blood,45,Female,Outpatient,Walk-in,No,Ciprofloxacin,Resistant
+113,2024-02-09,Klebsiella pneumoniae,Wound,17,Male,General Medicine,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+114,2023-11-25,S. aureus (MRSA),Blood,80,Female,Outpatient,Walk-in,Unknown,Amoxicillin,Resistant
+115,2025-11-26,Pseudomonas,Blood,50,Female,Outpatient,Walk-in,Yes,Ceftriaxone,Susceptible
+116,2023-03-20,Klebsiella pneumoniae,Wound,16,Female,ICU,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+117,2025-03-08,S. aureus (MRSA),Wound,58,Female,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+118,2025-07-04,E_coli,CSF,59,Male,Outpatient,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+119,2025-01-18,Pseudomonas,Urine,57,Male,General Medicine,Walk-in,Yes,Ceftriaxone,Resistant
+120,2023-04-22,Klebsiella pneumoniae,CSF,49,Male,Neonatal Ward,Walk-in,Unknown,Ceftriaxone,Resistant
+121,2025-10-04,E_coli,Wound,22,Male,General Medicine,Walk-in,Yes,Ciprofloxacin,Susceptible
+122,2024-07-17,S. aureus (MRSA),Sputum,19,Female,ICU,Hospitalized > 48hrs,No,Gentamicin,Resistant
+123,2024-10-15,Klebsiella pneumoniae,Wound,5,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+124,2025-02-10,Pseudomonas,Blood,34,Male,Neonatal Ward,Walk-in,Unknown,Ceftriaxone,Susceptible
+125,2023-08-03,S. aureus (MRSA),Wound,69,Female,Outpatient,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+126,2024-11-08,S. aureus (MRSA),Urine,57,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+127,2024-10-02,E_coli,Urine,5,Male,Outpatient,Walk-in,No,Gentamicin,Susceptible
+128,2023-04-08,S. aureus (MRSA),Blood,63,Male,Maternity,Walk-in,Unknown,Gentamicin,Susceptible
+129,2023-08-06,E_coli,CSF,46,Male,General Medicine,Hospitalized > 48hrs,Unknown,Amoxicillin,Susceptible
+130,2025-08-30,S. aureus (MRSA),Blood,18,Male,ICU,Walk-in,No,Amoxicillin,Resistant
+131,2024-07-06,Klebsiella pneumoniae,Sputum,34,Male,General Medicine,Walk-in,Yes,Meropenem,Susceptible
+132,2024-05-23,S. aureus (MRSA),Blood,1,Male,Outpatient,Walk-in,Unknown,Gentamicin,Resistant
+133,2023-08-03,E_coli,Urine,79,Male,ICU,Walk-in,Yes,Gentamicin,Susceptible
+134,2025-04-30,Pseudomonas,CSF,23,Female,Outpatient,Walk-in,Unknown,Ceftriaxone,Resistant
+135,2025-02-07,S. aureus (MRSA),Sputum,60,Male,Maternity,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+136,2023-03-21,Klebsiella pneumoniae,Urine,43,Female,General Medicine,Walk-in,No,Ceftriaxone,Susceptible
+137,2024-03-20,S. aureus (MRSA),Urine,65,Male,Outpatient,Walk-in,No,Gentamicin,Susceptible
+138,2024-10-31,S. aureus (MRSA),Blood,50,Female,ICU,Walk-in,Yes,Amoxicillin,Resistant
+139,2025-12-22,Pseudomonas,Urine,4,Female,Outpatient,Walk-in,No,Ciprofloxacin,Susceptible
+140,2023-12-18,S. aureus (MRSA),Blood,5,Male,Maternity,Walk-in,Unknown,Amoxicillin,Resistant
+141,2023-02-28,E_coli,Urine,6,Male,ICU,Walk-in,No,Ciprofloxacin,Resistant
+142,2025-01-14,E_coli,Blood,69,Male,General Medicine,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+143,2023-03-12,E_coli,Urine,81,Female,ICU,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+144,2024-10-15,E_coli,Wound,55,Female,General Medicine,Walk-in,Unknown,Amoxicillin,Susceptible
+145,2025-01-23,S. aureus (MRSA),Wound,78,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+146,2023-07-21,E_coli,Wound,61,Male,General Medicine,Walk-in,No,Gentamicin,Susceptible
+147,2025-12-08,E_coli,Blood,37,Male,Neonatal Ward,Walk-in,Yes,Ciprofloxacin,Susceptible
+148,2024-01-13,S. aureus (MRSA),Sputum,76,Female,General Medicine,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+149,2023-12-06,Klebsiella pneumoniae,Urine,82,Male,ICU,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+150,2025-03-19,E_coli,Urine,55,Male,Neonatal Ward,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+151,2025-10-23,Klebsiella pneumoniae,Blood,49,Male,Neonatal Ward,Hospitalized > 48hrs,No,Meropenem,Resistant
+152,2023-03-11,Klebsiella pneumoniae,Wound,75,Female,Outpatient,Walk-in,Unknown,Gentamicin,Resistant
+153,2025-08-06,Pseudomonas,Sputum,89,Female,Outpatient,Walk-in,Unknown,Ciprofloxacin,Susceptible
+154,2024-05-02,Klebsiella pneumoniae,CSF,25,Female,Maternity,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+155,2025-12-05,Klebsiella pneumoniae,Wound,21,Male,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+156,2023-07-28,Klebsiella pneumoniae,Blood,50,Male,General Medicine,Walk-in,Yes,Meropenem,Resistant
+157,2023-08-07,S. aureus (MRSA),Wound,27,Female,Maternity,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+158,2025-10-21,E_coli,Wound,60,Male,Maternity,Walk-in,No,Amoxicillin,Resistant
+159,2025-05-30,S. aureus (MRSA),CSF,76,Female,General Medicine,Walk-in,Unknown,Gentamicin,Susceptible
+160,2025-06-04,Klebsiella pneumoniae,Wound,34,Male,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+161,2025-09-15,Klebsiella pneumoniae,Sputum,3,Female,ICU,Walk-in,No,Meropenem,Resistant
+162,2023-08-06,S. aureus (MRSA),Urine,33,Male,Maternity,Walk-in,No,Amoxicillin,Resistant
+163,2025-07-24,Klebsiella pneumoniae,CSF,27,Female,Neonatal Ward,Walk-in,Yes,Gentamicin,Resistant
+164,2024-03-06,S. aureus (MRSA),Blood,51,Male,Maternity,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+165,2023-01-28,E_coli,Urine,54,Female,Neonatal Ward,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+166,2025-12-15,S. aureus (MRSA),Blood,51,Female,ICU,Walk-in,No,Amoxicillin,Resistant
+167,2024-04-07,Klebsiella pneumoniae,Blood,46,Female,General Medicine,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+168,2024-04-16,S. aureus (MRSA),Wound,49,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+169,2025-01-03,Klebsiella pneumoniae,Blood,84,Female,General Medicine,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+170,2025-01-12,Pseudomonas,Blood,39,Female,Maternity,Walk-in,Unknown,Meropenem,Susceptible
+171,2024-12-07,E_coli,CSF,2,Male,Neonatal Ward,Walk-in,Yes,Ciprofloxacin,Susceptible
+172,2023-10-20,E_coli,Blood,24,Female,Neonatal Ward,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+173,2023-07-05,Klebsiella pneumoniae,CSF,82,Female,Maternity,Walk-in,Unknown,Ceftriaxone,Susceptible
+174,2025-06-17,Pseudomonas,Urine,72,Male,ICU,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+175,2023-04-30,Pseudomonas,Sputum,60,Male,ICU,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+176,2023-01-14,Klebsiella pneumoniae,Blood,42,Female,ICU,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+177,2023-06-04,S. aureus (MRSA),Blood,82,Female,Neonatal Ward,Walk-in,No,Gentamicin,Susceptible
+178,2024-11-07,E_coli,Urine,66,Female,General Medicine,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Resistant
+179,2023-09-17,Klebsiella pneumoniae,Wound,13,Female,ICU,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+180,2024-12-01,Pseudomonas,Sputum,33,Male,Outpatient,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+181,2024-07-10,S. aureus (MRSA),CSF,45,Male,Maternity,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+182,2023-09-19,E_coli,CSF,82,Male,ICU,Walk-in,No,Gentamicin,Resistant
+183,2023-04-12,Pseudomonas,Sputum,39,Male,Outpatient,Walk-in,No,Ciprofloxacin,Susceptible
+184,2023-05-04,E_coli,CSF,70,Female,Maternity,Walk-in,Unknown,Amoxicillin,Resistant
+185,2023-12-23,E_coli,Urine,85,Male,General Medicine,Walk-in,Unknown,Amoxicillin,Resistant
+186,2023-10-12,Pseudomonas,Wound,72,Female,General Medicine,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+187,2023-04-22,Klebsiella pneumoniae,Sputum,73,Male,General Medicine,Walk-in,No,Meropenem,Susceptible
+188,2025-03-03,Pseudomonas,CSF,76,Male,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+189,2024-03-10,Pseudomonas,Blood,81,Male,General Medicine,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+190,2023-09-06,E_coli,Blood,61,Male,General Medicine,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+191,2023-10-24,Klebsiella pneumoniae,Urine,38,Female,ICU,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+192,2023-06-13,S. aureus (MRSA),Sputum,40,Female,General Medicine,Walk-in,Yes,Amoxicillin,Susceptible
+193,2025-06-17,Pseudomonas,Sputum,87,Male,General Medicine,Walk-in,No,Ciprofloxacin,Susceptible
+194,2025-09-03,E_coli,Sputum,58,Female,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+195,2024-11-11,S. aureus (MRSA),CSF,2,Male,General Medicine,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+196,2024-04-24,Pseudomonas,Sputum,37,Male,Maternity,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+197,2023-03-28,S. aureus (MRSA),Wound,19,Male,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+198,2025-09-19,Pseudomonas,Sputum,26,Male,Outpatient,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+199,2024-06-05,E_coli,CSF,2,Female,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Resistant
+200,2025-12-03,E_coli,Wound,67,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+201,2024-08-16,Klebsiella pneumoniae,Wound,74,Female,ICU,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+202,2023-08-06,Klebsiella pneumoniae,Wound,81,Female,General Medicine,Walk-in,No,Ceftriaxone,Susceptible
+203,2025-11-29,Klebsiella pneumoniae,CSF,3,Male,Outpatient,Walk-in,Yes,Meropenem,Susceptible
+204,2024-06-19,Klebsiella pneumoniae,Wound,55,Male,Maternity,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+205,2024-01-06,Klebsiella pneumoniae,Sputum,11,Male,General Medicine,Walk-in,No,Meropenem,Susceptible
+206,2023-05-12,E_coli,CSF,82,Female,Neonatal Ward,Walk-in,Unknown,Ciprofloxacin,Susceptible
+207,2023-07-03,E_coli,CSF,51,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+208,2023-03-21,Klebsiella pneumoniae,Wound,46,Male,ICU,Walk-in,Unknown,Meropenem,Susceptible
+209,2025-09-17,E_coli,Urine,13,Male,Outpatient,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+210,2023-08-04,E_coli,Sputum,42,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+211,2025-06-22,Pseudomonas,Blood,19,Male,Neonatal Ward,Hospitalized > 48hrs,No,Ceftriaxone,Susceptible
+212,2025-02-03,Klebsiella pneumoniae,Blood,58,Male,ICU,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+213,2024-10-22,E_coli,Blood,62,Male,General Medicine,Hospitalized > 48hrs,No,Ciprofloxacin,Resistant
+214,2025-07-13,Klebsiella pneumoniae,CSF,19,Female,ICU,Walk-in,Unknown,Meropenem,Susceptible
+215,2024-07-09,S. aureus (MRSA),CSF,38,Female,Maternity,Walk-in,Yes,Gentamicin,Susceptible
+216,2025-09-15,S. aureus (MRSA),Urine,20,Male,General Medicine,Walk-in,No,Gentamicin,Susceptible
+217,2025-01-16,Pseudomonas,Sputum,34,Male,General Medicine,Walk-in,No,Meropenem,Susceptible
+218,2023-04-28,E_coli,Wound,19,Male,Neonatal Ward,Hospitalized > 48hrs,No,Gentamicin,Resistant
+219,2025-12-14,S. aureus (MRSA),Wound,24,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+220,2023-10-10,E_coli,Blood,67,Male,ICU,Walk-in,No,Gentamicin,Susceptible
+221,2025-10-11,Klebsiella pneumoniae,Wound,23,Male,General Medicine,Walk-in,Yes,Gentamicin,Resistant
+222,2025-11-30,Klebsiella pneumoniae,Sputum,8,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+223,2025-09-03,S. aureus (MRSA),Blood,86,Female,General Medicine,Walk-in,Yes,Gentamicin,Susceptible
+224,2025-01-30,Klebsiella pneumoniae,CSF,77,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+225,2024-05-16,Pseudomonas,Wound,49,Male,General Medicine,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+226,2025-12-22,E_coli,CSF,18,Male,Maternity,Walk-in,No,Ciprofloxacin,Susceptible
+227,2024-09-30,E_coli,Wound,72,Male,Outpatient,Walk-in,Yes,Amoxicillin,Susceptible
+228,2025-08-08,E_coli,CSF,31,Female,ICU,Walk-in,No,Ciprofloxacin,Susceptible
+229,2025-08-10,S. aureus (MRSA),Sputum,75,Female,ICU,Walk-in,Yes,Amoxicillin,Resistant
+230,2024-04-10,E_coli,Blood,19,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+231,2025-12-12,Klebsiella pneumoniae,Urine,51,Male,Maternity,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+232,2024-10-18,S. aureus (MRSA),Sputum,72,Male,ICU,Hospitalized > 48hrs,No,Gentamicin,Resistant
+233,2023-01-24,Klebsiella pneumoniae,Wound,14,Male,Neonatal Ward,Walk-in,Yes,Gentamicin,Resistant
+234,2024-04-06,S. aureus (MRSA),Blood,54,Female,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+235,2024-07-13,E_coli,CSF,5,Male,General Medicine,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+236,2023-03-22,E_coli,Wound,15,Female,General Medicine,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+237,2025-11-18,Klebsiella pneumoniae,Wound,11,Female,General Medicine,Walk-in,Unknown,Ceftriaxone,Resistant
+238,2025-04-12,Pseudomonas,CSF,37,Female,Outpatient,Walk-in,Yes,Ceftriaxone,Resistant
+239,2024-03-29,E_coli,Sputum,26,Female,Outpatient,Hospitalized > 48hrs,No,Ciprofloxacin,Resistant
+240,2024-11-14,S. aureus (MRSA),Blood,25,Female,Maternity,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+241,2024-10-28,E_coli,Sputum,35,Female,ICU,Walk-in,Yes,Gentamicin,Susceptible
+242,2024-12-13,S. aureus (MRSA),Sputum,85,Male,General Medicine,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+243,2023-11-13,Pseudomonas,Sputum,44,Female,General Medicine,Walk-in,Unknown,Meropenem,Susceptible
+244,2025-11-26,Klebsiella pneumoniae,Urine,61,Female,Outpatient,Walk-in,No,Gentamicin,Resistant
+245,2023-08-29,Pseudomonas,Sputum,51,Male,General Medicine,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+246,2024-08-12,S. aureus (MRSA),Wound,38,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+247,2025-10-20,Pseudomonas,Sputum,57,Female,Neonatal Ward,Walk-in,Yes,Ciprofloxacin,Resistant
+248,2024-04-20,S. aureus (MRSA),Urine,43,Female,Maternity,Walk-in,Unknown,Amoxicillin,Resistant
+249,2024-06-09,S. aureus (MRSA),CSF,64,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+250,2025-03-08,Pseudomonas,Sputum,46,Male,Outpatient,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+251,2025-04-18,Pseudomonas,Wound,65,Female,General Medicine,Walk-in,Unknown,Ceftriaxone,Susceptible
+252,2024-12-04,Klebsiella pneumoniae,CSF,12,Male,Maternity,Hospitalized > 48hrs,No,Meropenem,Susceptible
+253,2023-08-15,S. aureus (MRSA),Wound,89,Female,General Medicine,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+254,2024-01-21,Klebsiella pneumoniae,Sputum,24,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+255,2024-09-20,S. aureus (MRSA),CSF,1,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+256,2023-12-25,E_coli,Sputum,71,Female,General Medicine,Walk-in,Unknown,Ciprofloxacin,Susceptible
+257,2025-11-27,Klebsiella pneumoniae,CSF,14,Male,Outpatient,Walk-in,Yes,Meropenem,Susceptible
+258,2025-05-31,E_coli,Urine,84,Male,Outpatient,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+259,2023-03-09,Klebsiella pneumoniae,Wound,81,Male,ICU,Walk-in,No,Gentamicin,Susceptible
+260,2023-04-22,S. aureus (MRSA),Blood,51,Male,Maternity,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+261,2023-11-23,E_coli,CSF,23,Female,ICU,Walk-in,Yes,Ciprofloxacin,Susceptible
+262,2025-10-11,Pseudomonas,Urine,32,Female,Maternity,Walk-in,Unknown,Meropenem,Susceptible
+263,2024-05-13,Pseudomonas,Urine,23,Male,Maternity,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+264,2025-01-13,Pseudomonas,Urine,43,Female,General Medicine,Hospitalized > 48hrs,No,Ceftriaxone,Susceptible
+265,2024-12-20,Pseudomonas,CSF,32,Female,General Medicine,Walk-in,Yes,Ciprofloxacin,Susceptible
+266,2024-07-25,Pseudomonas,Urine,44,Male,Neonatal Ward,Walk-in,Yes,Meropenem,Susceptible
+267,2023-09-19,Klebsiella pneumoniae,CSF,57,Female,ICU,Walk-in,No,Ceftriaxone,Resistant
+268,2025-02-10,Klebsiella pneumoniae,CSF,27,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Meropenem,Resistant
+269,2024-06-18,Klebsiella pneumoniae,CSF,57,Female,Maternity,Walk-in,Unknown,Ceftriaxone,Susceptible
+270,2023-09-09,Pseudomonas,CSF,12,Female,Outpatient,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+271,2025-03-09,E_coli,Urine,89,Male,Outpatient,Walk-in,Yes,Ciprofloxacin,Susceptible
+272,2025-01-10,S. aureus (MRSA),CSF,39,Male,General Medicine,Walk-in,Yes,Amoxicillin,Resistant
+273,2025-03-28,S. aureus (MRSA),Wound,46,Female,ICU,Hospitalized > 48hrs,No,Amoxicillin,Susceptible
+274,2024-12-20,Klebsiella pneumoniae,Sputum,4,Female,ICU,Walk-in,Yes,Meropenem,Susceptible
+275,2024-07-08,Pseudomonas,CSF,29,Male,General Medicine,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+276,2024-09-12,E_coli,Blood,49,Male,ICU,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+277,2025-12-02,Klebsiella pneumoniae,Wound,56,Female,ICU,Walk-in,Unknown,Gentamicin,Susceptible
+278,2023-04-07,E_coli,Blood,88,Male,Neonatal Ward,Walk-in,Yes,Ciprofloxacin,Resistant
+279,2025-05-04,S. aureus (MRSA),Sputum,79,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+280,2025-10-27,E_coli,Sputum,66,Male,Maternity,Walk-in,No,Gentamicin,Resistant
+281,2024-01-23,Pseudomonas,Urine,90,Female,Outpatient,Walk-in,Yes,Ciprofloxacin,Susceptible
+282,2023-05-02,Klebsiella pneumoniae,Blood,46,Female,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+283,2025-09-23,E_coli,Sputum,31,Male,Neonatal Ward,Walk-in,Yes,Amoxicillin,Susceptible
+284,2023-10-18,Pseudomonas,CSF,73,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+285,2023-11-14,E_coli,CSF,60,Female,Maternity,Walk-in,Yes,Ciprofloxacin,Resistant
+286,2024-02-27,E_coli,Urine,8,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+287,2023-11-27,Klebsiella pneumoniae,Wound,57,Female,Neonatal Ward,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+288,2025-08-17,S. aureus (MRSA),Sputum,11,Female,Outpatient,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+289,2024-10-21,E_coli,Urine,46,Male,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+290,2023-02-21,S. aureus (MRSA),Sputum,19,Female,General Medicine,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+291,2024-09-27,Klebsiella pneumoniae,CSF,42,Female,Outpatient,Walk-in,Unknown,Gentamicin,Susceptible
+292,2025-01-26,S. aureus (MRSA),Wound,31,Male,ICU,Walk-in,No,Gentamicin,Susceptible
+293,2025-10-09,E_coli,Sputum,64,Male,Maternity,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+294,2025-04-02,E_coli,Urine,6,Female,ICU,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+295,2025-11-13,Klebsiella pneumoniae,Sputum,19,Female,Neonatal Ward,Walk-in,Yes,Ceftriaxone,Susceptible
+296,2023-01-19,E_coli,Blood,22,Female,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+297,2024-02-05,E_coli,Sputum,11,Female,Outpatient,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+298,2023-06-16,Pseudomonas,Urine,87,Female,ICU,Hospitalized > 48hrs,No,Ciprofloxacin,Resistant
+299,2024-09-04,Pseudomonas,Wound,68,Male,Maternity,Walk-in,Unknown,Meropenem,Susceptible
+300,2025-01-31,Klebsiella pneumoniae,CSF,75,Female,Maternity,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+301,2024-04-10,Klebsiella pneumoniae,Blood,26,Male,Maternity,Walk-in,No,Gentamicin,Susceptible
+302,2025-09-29,S. aureus (MRSA),Blood,71,Female,ICU,Walk-in,Unknown,Amoxicillin,Resistant
+303,2025-04-15,E_coli,Urine,57,Male,Outpatient,Walk-in,Unknown,Ciprofloxacin,Susceptible
+304,2024-01-28,E_coli,CSF,61,Male,Maternity,Walk-in,Unknown,Gentamicin,Susceptible
+305,2023-03-27,S. aureus (MRSA),Urine,90,Male,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+306,2023-06-29,S. aureus (MRSA),CSF,26,Male,ICU,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+307,2024-06-07,Klebsiella pneumoniae,Urine,31,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+308,2024-11-01,Pseudomonas,CSF,15,Male,Outpatient,Walk-in,No,Ceftriaxone,Susceptible
+309,2025-06-19,S. aureus (MRSA),Urine,3,Female,ICU,Walk-in,Unknown,Gentamicin,Susceptible
+310,2024-08-16,E_coli,Sputum,19,Female,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+311,2025-09-24,Pseudomonas,CSF,62,Male,General Medicine,Walk-in,No,Ceftriaxone,Resistant
+312,2025-03-14,E_coli,Sputum,21,Female,Outpatient,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+313,2025-12-17,Klebsiella pneumoniae,Blood,40,Male,Outpatient,Walk-in,Yes,Gentamicin,Susceptible
+314,2025-08-17,Klebsiella pneumoniae,Sputum,46,Female,Neonatal Ward,Walk-in,Unknown,Ceftriaxone,Resistant
+315,2025-07-29,S. aureus (MRSA),CSF,6,Male,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+316,2024-06-20,S. aureus (MRSA),Wound,73,Male,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+317,2023-07-22,E_coli,Wound,37,Male,Maternity,Walk-in,Unknown,Amoxicillin,Resistant
+318,2024-05-17,E_coli,Wound,71,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+319,2025-09-13,E_coli,CSF,48,Male,Neonatal Ward,Walk-in,Unknown,Ciprofloxacin,Susceptible
+320,2025-07-17,S. aureus (MRSA),Sputum,58,Female,ICU,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+321,2024-09-23,Klebsiella pneumoniae,Wound,74,Female,General Medicine,Walk-in,Yes,Gentamicin,Susceptible
+322,2024-12-24,Klebsiella pneumoniae,Sputum,46,Female,General Medicine,Walk-in,Unknown,Gentamicin,Susceptible
+323,2023-02-17,Pseudomonas,Blood,81,Female,ICU,Walk-in,No,Meropenem,Resistant
+324,2024-08-01,E_coli,CSF,83,Male,General Medicine,Walk-in,No,Amoxicillin,Susceptible
+325,2023-06-12,Klebsiella pneumoniae,Urine,74,Female,General Medicine,Walk-in,Yes,Gentamicin,Resistant
+326,2023-01-31,E_coli,Wound,4,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+327,2024-11-22,S. aureus (MRSA),Blood,8,Female,Maternity,Walk-in,No,Amoxicillin,Resistant
+328,2025-03-29,E_coli,Wound,60,Male,Outpatient,Walk-in,No,Ciprofloxacin,Resistant
+329,2024-11-05,S. aureus (MRSA),Blood,12,Male,General Medicine,Walk-in,No,Gentamicin,Susceptible
+330,2025-01-10,Klebsiella pneumoniae,Sputum,45,Male,Outpatient,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+331,2025-09-05,Klebsiella pneumoniae,Urine,83,Female,Outpatient,Hospitalized > 48hrs,No,Gentamicin,Resistant
+332,2023-09-28,S. aureus (MRSA),Wound,2,Female,Outpatient,Walk-in,Unknown,Gentamicin,Resistant
+333,2023-07-04,S. aureus (MRSA),Urine,80,Male,ICU,Walk-in,No,Amoxicillin,Resistant
+334,2024-01-08,E_coli,Wound,78,Female,Outpatient,Walk-in,Yes,Ciprofloxacin,Resistant
+335,2024-05-11,Klebsiella pneumoniae,Sputum,64,Male,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+336,2023-02-24,Pseudomonas,Urine,85,Male,ICU,Walk-in,No,Meropenem,Resistant
+337,2025-02-09,Pseudomonas,Sputum,49,Male,Neonatal Ward,Walk-in,Yes,Ciprofloxacin,Susceptible
+338,2024-04-18,S. aureus (MRSA),Wound,27,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+339,2023-11-17,S. aureus (MRSA),Sputum,35,Male,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+340,2024-05-26,S. aureus (MRSA),Blood,41,Female,Neonatal Ward,Walk-in,Yes,Amoxicillin,Resistant
+341,2025-06-18,E_coli,Blood,56,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+342,2024-09-11,E_coli,Blood,65,Female,ICU,Walk-in,Yes,Amoxicillin,Resistant
+343,2025-03-23,Klebsiella pneumoniae,Wound,5,Male,Maternity,Walk-in,Yes,Meropenem,Susceptible
+344,2025-05-31,E_coli,Urine,3,Male,ICU,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+345,2025-12-12,E_coli,Sputum,1,Male,General Medicine,Walk-in,No,Amoxicillin,Resistant
+346,2025-12-21,Klebsiella pneumoniae,Wound,64,Male,Outpatient,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+347,2023-02-01,Klebsiella pneumoniae,Wound,35,Male,General Medicine,Walk-in,No,Ceftriaxone,Resistant
+348,2025-01-12,Klebsiella pneumoniae,Wound,2,Female,General Medicine,Walk-in,No,Gentamicin,Resistant
+349,2025-04-20,Pseudomonas,Wound,52,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+350,2025-04-19,Pseudomonas,Blood,82,Male,ICU,Walk-in,No,Meropenem,Resistant
+351,2023-06-27,S. aureus (MRSA),CSF,5,Male,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+352,2023-01-02,S. aureus (MRSA),Sputum,83,Female,Outpatient,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+353,2025-03-16,Pseudomonas,CSF,35,Female,Maternity,Walk-in,No,Ceftriaxone,Resistant
+354,2025-08-27,Klebsiella pneumoniae,Wound,67,Female,Neonatal Ward,Walk-in,No,Gentamicin,Resistant
+355,2025-12-16,Klebsiella pneumoniae,Blood,47,Male,Outpatient,Walk-in,No,Ceftriaxone,Resistant
+356,2023-03-30,Klebsiella pneumoniae,Wound,49,Female,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+357,2023-07-30,E_coli,Wound,46,Female,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+358,2023-08-17,E_coli,Sputum,82,Female,Maternity,Walk-in,No,Gentamicin,Resistant
+359,2024-05-01,Klebsiella pneumoniae,CSF,48,Female,ICU,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+360,2024-06-15,S. aureus (MRSA),Urine,76,Male,Outpatient,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+361,2025-06-16,S. aureus (MRSA),Urine,68,Female,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+362,2025-01-31,Klebsiella pneumoniae,Urine,57,Female,Maternity,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+363,2024-06-09,E_coli,Wound,31,Female,Neonatal Ward,Walk-in,No,Ciprofloxacin,Susceptible
+364,2024-02-21,Klebsiella pneumoniae,Wound,10,Male,Outpatient,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+365,2023-02-22,Pseudomonas,Urine,76,Female,Outpatient,Hospitalized > 48hrs,No,Meropenem,Susceptible
+366,2025-06-19,Pseudomonas,Sputum,63,Male,Maternity,Walk-in,Yes,Meropenem,Resistant
+367,2024-08-25,Klebsiella pneumoniae,CSF,43,Female,ICU,Hospitalized > 48hrs,No,Gentamicin,Resistant
+368,2023-02-01,E_coli,Urine,64,Male,ICU,Walk-in,Yes,Amoxicillin,Resistant
+369,2023-04-23,Pseudomonas,CSF,89,Female,ICU,Walk-in,Unknown,Ceftriaxone,Resistant
+370,2025-11-27,Pseudomonas,Urine,24,Female,ICU,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+371,2024-09-03,E_coli,CSF,51,Female,Maternity,Walk-in,No,Gentamicin,Susceptible
+372,2024-06-10,S. aureus (MRSA),Wound,26,Male,ICU,Walk-in,No,Gentamicin,Resistant
+373,2023-10-17,Klebsiella pneumoniae,Wound,44,Male,Neonatal Ward,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+374,2025-04-17,E_coli,CSF,42,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+375,2025-07-20,Klebsiella pneumoniae,Sputum,57,Male,Neonatal Ward,Walk-in,Yes,Meropenem,Resistant
+376,2023-10-08,E_coli,Urine,77,Female,Maternity,Walk-in,Unknown,Amoxicillin,Susceptible
+377,2025-10-17,E_coli,Blood,87,Female,Outpatient,Walk-in,Unknown,Ciprofloxacin,Resistant
+378,2023-07-15,Klebsiella pneumoniae,Blood,12,Male,ICU,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+379,2025-05-19,Klebsiella pneumoniae,Blood,8,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Resistant
+380,2024-10-14,Klebsiella pneumoniae,CSF,20,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Meropenem,Resistant
+381,2025-03-12,S. aureus (MRSA),Urine,42,Female,ICU,Walk-in,Unknown,Amoxicillin,Resistant
+382,2025-08-09,S. aureus (MRSA),Blood,24,Female,Outpatient,Hospitalized > 48hrs,Unknown,Amoxicillin,Susceptible
+383,2024-03-07,Pseudomonas,CSF,68,Male,General Medicine,Hospitalized > 48hrs,No,Ceftriaxone,Susceptible
+384,2023-07-10,Pseudomonas,Blood,63,Female,General Medicine,Hospitalized > 48hrs,No,Meropenem,Resistant
+385,2024-04-10,E_coli,CSF,39,Male,ICU,Walk-in,No,Amoxicillin,Resistant
+386,2023-04-13,E_coli,Blood,43,Female,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+387,2023-08-13,Pseudomonas,Wound,9,Female,Neonatal Ward,Walk-in,Unknown,Ceftriaxone,Susceptible
+388,2023-03-11,E_coli,Urine,66,Male,Outpatient,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+389,2023-12-02,Klebsiella pneumoniae,Wound,22,Male,Outpatient,Hospitalized > 48hrs,No,Meropenem,Susceptible
+390,2023-07-12,E_coli,Urine,31,Male,Maternity,Walk-in,No,Ciprofloxacin,Susceptible
+391,2025-08-16,Pseudomonas,Blood,21,Male,Outpatient,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+392,2023-09-18,S. aureus (MRSA),Blood,69,Male,Neonatal Ward,Walk-in,No,Amoxicillin,Resistant
+393,2024-03-07,E_coli,Blood,12,Male,General Medicine,Walk-in,No,Amoxicillin,Resistant
+394,2023-08-13,S. aureus (MRSA),Wound,73,Male,Maternity,Walk-in,No,Amoxicillin,Resistant
+395,2025-11-16,Klebsiella pneumoniae,Urine,32,Male,ICU,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+396,2023-12-24,E_coli,Wound,44,Male,ICU,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+397,2023-03-08,Klebsiella pneumoniae,Urine,32,Male,Neonatal Ward,Walk-in,No,Ceftriaxone,Resistant
+398,2024-03-25,Klebsiella pneumoniae,Wound,9,Male,ICU,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+399,2023-05-09,E_coli,Blood,81,Male,Outpatient,Hospitalized > 48hrs,No,Gentamicin,Resistant
+400,2025-10-05,Pseudomonas,Sputum,18,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+401,2025-06-10,E_coli,Sputum,82,Female,Maternity,Walk-in,Unknown,Ciprofloxacin,Susceptible
+402,2025-07-26,E_coli,CSF,31,Female,ICU,Walk-in,Yes,Gentamicin,Susceptible
+403,2024-12-02,Pseudomonas,Sputum,52,Male,Maternity,Walk-in,Unknown,Ciprofloxacin,Susceptible
+404,2023-02-03,S. aureus (MRSA),Urine,61,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+405,2023-06-20,S. aureus (MRSA),Wound,51,Female,ICU,Walk-in,No,Gentamicin,Resistant
+406,2025-06-24,S. aureus (MRSA),Sputum,85,Male,General Medicine,Walk-in,No,Gentamicin,Susceptible
+407,2024-01-13,Klebsiella pneumoniae,Sputum,35,Female,General Medicine,Walk-in,No,Gentamicin,Resistant
+408,2025-03-18,S. aureus (MRSA),Wound,64,Female,ICU,Walk-in,No,Amoxicillin,Resistant
+409,2023-12-26,Klebsiella pneumoniae,Urine,32,Female,Outpatient,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+410,2025-11-18,S. aureus (MRSA),Sputum,18,Female,Outpatient,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+411,2024-08-28,E_coli,Wound,40,Female,Outpatient,Walk-in,No,Ciprofloxacin,Susceptible
+412,2023-04-27,Pseudomonas,Urine,72,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+413,2024-10-28,S. aureus (MRSA),Sputum,18,Male,Outpatient,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+414,2025-03-14,Klebsiella pneumoniae,Blood,76,Female,Outpatient,Walk-in,Unknown,Ceftriaxone,Resistant
+415,2023-06-22,S. aureus (MRSA),Sputum,64,Female,Maternity,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+416,2025-12-26,S. aureus (MRSA),Wound,18,Male,Outpatient,Walk-in,No,Amoxicillin,Resistant
+417,2023-04-20,Klebsiella pneumoniae,CSF,39,Female,Outpatient,Hospitalized > 48hrs,Yes,Meropenem,Resistant
+418,2024-10-19,Klebsiella pneumoniae,Sputum,52,Male,Neonatal Ward,Hospitalized > 48hrs,No,Meropenem,Susceptible
+419,2025-08-25,S. aureus (MRSA),Wound,15,Male,Neonatal Ward,Hospitalized > 48hrs,No,Gentamicin,Resistant
+420,2024-07-25,Pseudomonas,CSF,61,Female,ICU,Walk-in,No,Ciprofloxacin,Susceptible
+421,2025-12-20,S. aureus (MRSA),Wound,81,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+422,2024-09-17,Pseudomonas,Wound,78,Female,General Medicine,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+423,2025-04-25,Klebsiella pneumoniae,Urine,40,Male,Outpatient,Walk-in,Yes,Ceftriaxone,Resistant
+424,2025-03-30,E_coli,Sputum,64,Female,Maternity,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+425,2025-04-27,Klebsiella pneumoniae,Wound,18,Male,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+426,2024-04-27,E_coli,CSF,56,Female,General Medicine,Walk-in,Unknown,Gentamicin,Susceptible
+427,2024-05-03,S. aureus (MRSA),CSF,16,Female,ICU,Walk-in,Yes,Amoxicillin,Resistant
+428,2025-02-26,Pseudomonas,CSF,36,Male,ICU,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+429,2023-06-11,Klebsiella pneumoniae,Wound,3,Male,Neonatal Ward,Walk-in,Yes,Ceftriaxone,Resistant
+430,2023-10-12,S. aureus (MRSA),Sputum,36,Male,General Medicine,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+431,2024-04-04,E_coli,Wound,81,Female,Outpatient,Hospitalized > 48hrs,No,Amoxicillin,Susceptible
+432,2023-03-04,Klebsiella pneumoniae,Blood,23,Male,Outpatient,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+433,2023-07-03,Pseudomonas,CSF,15,Female,General Medicine,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+434,2024-11-05,Pseudomonas,Wound,10,Female,General Medicine,Walk-in,No,Ceftriaxone,Resistant
+435,2024-01-24,Pseudomonas,Urine,52,Male,Outpatient,Hospitalized > 48hrs,No,Meropenem,Susceptible
+436,2024-02-09,Klebsiella pneumoniae,Blood,34,Male,Outpatient,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+437,2024-12-25,E_coli,Blood,54,Male,Outpatient,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+438,2024-12-27,S. aureus (MRSA),Wound,14,Male,Outpatient,Walk-in,Unknown,Amoxicillin,Susceptible
+439,2023-07-29,S. aureus (MRSA),Wound,14,Male,General Medicine,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+440,2025-09-02,Pseudomonas,Blood,14,Female,General Medicine,Hospitalized > 48hrs,No,Meropenem,Susceptible
+441,2024-01-31,Klebsiella pneumoniae,Wound,67,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+442,2024-03-14,Klebsiella pneumoniae,CSF,69,Female,ICU,Walk-in,Yes,Meropenem,Susceptible
+443,2025-12-30,E_coli,Urine,42,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+444,2024-12-27,Pseudomonas,Sputum,14,Male,ICU,Walk-in,Yes,Ciprofloxacin,Susceptible
+445,2025-06-19,Klebsiella pneumoniae,Urine,73,Male,Maternity,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+446,2025-08-24,Klebsiella pneumoniae,CSF,19,Male,ICU,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+447,2024-04-04,Pseudomonas,Urine,32,Male,ICU,Walk-in,Yes,Ceftriaxone,Susceptible
+448,2024-03-25,E_coli,Urine,72,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+449,2023-08-01,E_coli,Urine,24,Male,Maternity,Walk-in,Yes,Amoxicillin,Resistant
+450,2023-01-05,S. aureus (MRSA),Urine,4,Male,Outpatient,Walk-in,No,Amoxicillin,Resistant
+451,2025-03-23,E_coli,Urine,72,Male,Outpatient,Walk-in,Unknown,Ciprofloxacin,Susceptible
+452,2024-02-29,Klebsiella pneumoniae,Sputum,15,Male,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+453,2024-07-15,E_coli,Wound,40,Female,ICU,Walk-in,Yes,Amoxicillin,Susceptible
+454,2023-01-15,Pseudomonas,Urine,10,Male,Outpatient,Walk-in,No,Ciprofloxacin,Resistant
+455,2024-03-07,Klebsiella pneumoniae,Urine,3,Male,Maternity,Walk-in,No,Gentamicin,Resistant
+456,2024-08-23,Klebsiella pneumoniae,Sputum,33,Male,General Medicine,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+457,2023-11-29,S. aureus (MRSA),Sputum,21,Female,General Medicine,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+458,2024-11-28,S. aureus (MRSA),Blood,70,Female,General Medicine,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+459,2023-08-03,E_coli,Urine,41,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+460,2023-11-26,S. aureus (MRSA),Blood,68,Male,Outpatient,Walk-in,Yes,Amoxicillin,Resistant
+461,2024-08-11,Pseudomonas,Urine,34,Female,General Medicine,Walk-in,Unknown,Ciprofloxacin,Susceptible
+462,2024-08-05,Klebsiella pneumoniae,Sputum,32,Female,Maternity,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+463,2023-10-18,E_coli,Urine,77,Male,ICU,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+464,2023-01-30,S. aureus (MRSA),Urine,47,Male,General Medicine,Walk-in,Unknown,Amoxicillin,Susceptible
+465,2024-07-14,E_coli,Sputum,23,Male,Maternity,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Resistant
+466,2025-06-30,S. aureus (MRSA),Urine,59,Female,Maternity,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+467,2024-03-03,Klebsiella pneumoniae,Wound,86,Female,Maternity,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+468,2024-09-30,E_coli,Wound,24,Male,General Medicine,Walk-in,Yes,Amoxicillin,Susceptible
+469,2023-07-02,Pseudomonas,CSF,75,Male,General Medicine,Walk-in,No,Ceftriaxone,Susceptible
+470,2023-09-24,E_coli,Wound,47,Male,General Medicine,Walk-in,No,Gentamicin,Resistant
+471,2023-08-17,S. aureus (MRSA),Blood,22,Female,Neonatal Ward,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+472,2025-01-18,E_coli,Blood,83,Female,ICU,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+473,2025-01-26,E_coli,Blood,37,Male,General Medicine,Hospitalized > 48hrs,Unknown,Amoxicillin,Susceptible
+474,2025-10-04,Pseudomonas,Urine,52,Male,General Medicine,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+475,2023-08-31,Pseudomonas,Blood,9,Female,ICU,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+476,2023-05-27,Pseudomonas,CSF,29,Female,ICU,Walk-in,No,Meropenem,Susceptible
+477,2024-05-05,Pseudomonas,CSF,22,Female,General Medicine,Walk-in,No,Ceftriaxone,Resistant
+478,2025-08-01,E_coli,Blood,10,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+479,2023-05-20,E_coli,Urine,61,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+480,2025-11-20,Klebsiella pneumoniae,Urine,83,Female,General Medicine,Walk-in,Unknown,Gentamicin,Susceptible
+481,2023-10-25,Klebsiella pneumoniae,Sputum,42,Male,Outpatient,Hospitalized > 48hrs,Yes,Meropenem,Resistant
+482,2023-06-17,Klebsiella pneumoniae,Sputum,28,Male,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+483,2024-02-13,Pseudomonas,Urine,52,Male,ICU,Walk-in,No,Ceftriaxone,Resistant
+484,2025-02-04,E_coli,CSF,63,Male,Maternity,Walk-in,Yes,Gentamicin,Susceptible
+485,2025-07-24,Klebsiella pneumoniae,Wound,29,Female,ICU,Walk-in,No,Meropenem,Resistant
+486,2023-02-17,Pseudomonas,CSF,48,Male,Neonatal Ward,Walk-in,No,Ceftriaxone,Resistant
+487,2025-08-30,E_coli,CSF,71,Female,Outpatient,Walk-in,No,Amoxicillin,Resistant
+488,2025-05-02,S. aureus (MRSA),Blood,18,Male,Outpatient,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+489,2025-07-15,E_coli,Sputum,33,Male,ICU,Walk-in,No,Amoxicillin,Susceptible
+490,2023-08-02,S. aureus (MRSA),Urine,38,Male,General Medicine,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+491,2024-09-06,Klebsiella pneumoniae,CSF,75,Male,Maternity,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+492,2025-01-26,Klebsiella pneumoniae,CSF,72,Male,Outpatient,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+493,2024-06-07,E_coli,Blood,53,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+494,2024-03-10,E_coli,Wound,2,Female,General Medicine,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+495,2024-04-21,S. aureus (MRSA),Sputum,12,Male,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+496,2025-01-06,Pseudomonas,Sputum,85,Female,ICU,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+497,2025-11-10,Klebsiella pneumoniae,Blood,52,Female,ICU,Walk-in,No,Ceftriaxone,Susceptible
+498,2024-12-29,Pseudomonas,Wound,56,Female,Maternity,Walk-in,No,Ciprofloxacin,Susceptible
+499,2023-11-26,Pseudomonas,Sputum,48,Male,General Medicine,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+500,2024-02-07,Klebsiella pneumoniae,Wound,39,Female,ICU,Walk-in,Unknown,Gentamicin,Resistant
+501,2023-04-04,E_coli,Blood,2,Female,Maternity,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Resistant
+502,2024-05-24,E_coli,Urine,23,Male,General Medicine,Walk-in,Yes,Amoxicillin,Susceptible
+503,2023-07-01,S. aureus (MRSA),Blood,20,Female,General Medicine,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+504,2025-09-07,E_coli,Wound,43,Male,Neonatal Ward,Walk-in,No,Ciprofloxacin,Susceptible
+505,2023-04-18,S. aureus (MRSA),Wound,17,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+506,2023-04-15,Pseudomonas,Blood,89,Female,ICU,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+507,2025-08-25,S. aureus (MRSA),Urine,9,Male,ICU,Walk-in,No,Amoxicillin,Resistant
+508,2025-08-24,Pseudomonas,CSF,56,Male,ICU,Walk-in,Unknown,Meropenem,Susceptible
+509,2025-07-25,Klebsiella pneumoniae,Blood,34,Female,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+510,2025-11-16,E_coli,Wound,28,Female,ICU,Walk-in,Unknown,Amoxicillin,Susceptible
+511,2023-09-26,Klebsiella pneumoniae,Blood,8,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+512,2024-09-19,S. aureus (MRSA),Urine,78,Female,Maternity,Walk-in,No,Gentamicin,Susceptible
+513,2023-12-25,S. aureus (MRSA),Blood,60,Male,Neonatal Ward,Walk-in,Unknown,Amoxicillin,Susceptible
+514,2025-01-13,S. aureus (MRSA),Sputum,68,Female,Outpatient,Walk-in,Unknown,Amoxicillin,Resistant
+515,2025-09-17,E_coli,Urine,33,Male,General Medicine,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+516,2025-07-04,S. aureus (MRSA),Wound,80,Male,Maternity,Walk-in,Unknown,Gentamicin,Susceptible
+517,2023-09-22,Pseudomonas,Urine,60,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+518,2023-10-24,E_coli,Sputum,90,Male,Neonatal Ward,Walk-in,No,Ciprofloxacin,Susceptible
+519,2023-05-25,E_coli,Wound,21,Female,ICU,Walk-in,Unknown,Gentamicin,Susceptible
+520,2025-01-12,Klebsiella pneumoniae,Urine,32,Female,Maternity,Walk-in,No,Ceftriaxone,Resistant
+521,2024-01-14,E_coli,CSF,37,Female,Maternity,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+522,2025-10-02,Klebsiella pneumoniae,Urine,66,Female,ICU,Walk-in,Unknown,Gentamicin,Susceptible
+523,2023-11-01,E_coli,CSF,42,Female,Outpatient,Walk-in,No,Gentamicin,Susceptible
+524,2024-04-19,S. aureus (MRSA),CSF,45,Male,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+525,2024-06-28,E_coli,Wound,39,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+526,2023-01-26,Pseudomonas,Sputum,82,Male,Neonatal Ward,Walk-in,Yes,Meropenem,Resistant
+527,2024-10-29,Klebsiella pneumoniae,Sputum,56,Female,Neonatal Ward,Walk-in,No,Ceftriaxone,Resistant
+528,2024-12-08,Klebsiella pneumoniae,Blood,41,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Resistant
+529,2024-03-14,Pseudomonas,Wound,47,Male,Maternity,Walk-in,No,Meropenem,Susceptible
+530,2023-02-22,E_coli,Blood,48,Male,Neonatal Ward,Walk-in,Yes,Amoxicillin,Resistant
+531,2025-04-02,Pseudomonas,Wound,62,Female,General Medicine,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+532,2024-12-22,Pseudomonas,CSF,14,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+533,2024-03-02,Pseudomonas,Wound,70,Female,General Medicine,Walk-in,Unknown,Meropenem,Susceptible
+534,2023-09-26,E_coli,Sputum,12,Male,Outpatient,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+535,2023-04-29,S. aureus (MRSA),Blood,47,Female,ICU,Walk-in,Unknown,Amoxicillin,Resistant
+536,2024-09-10,Pseudomonas,Wound,66,Male,General Medicine,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+537,2023-12-03,E_coli,Blood,3,Male,ICU,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Resistant
+538,2025-10-25,E_coli,Blood,66,Female,ICU,Walk-in,Unknown,Amoxicillin,Susceptible
+539,2023-03-04,Klebsiella pneumoniae,Sputum,18,Female,ICU,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+540,2023-04-21,Klebsiella pneumoniae,Urine,1,Female,ICU,Walk-in,Unknown,Meropenem,Resistant
+541,2023-12-26,Klebsiella pneumoniae,Blood,78,Male,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+542,2024-03-18,E_coli,Wound,55,Male,Maternity,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+543,2025-04-30,E_coli,Blood,41,Female,General Medicine,Walk-in,Yes,Gentamicin,Resistant
+544,2024-05-17,Klebsiella pneumoniae,Blood,30,Male,Neonatal Ward,Hospitalized > 48hrs,No,Gentamicin,Resistant
+545,2024-03-23,S. aureus (MRSA),Sputum,11,Male,Neonatal Ward,Walk-in,No,Gentamicin,Susceptible
+546,2025-09-09,S. aureus (MRSA),Sputum,76,Female,Outpatient,Hospitalized > 48hrs,No,Amoxicillin,Susceptible
+547,2025-11-08,S. aureus (MRSA),Blood,65,Male,Outpatient,Walk-in,Yes,Gentamicin,Susceptible
+548,2024-12-26,E_coli,Sputum,43,Female,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+549,2025-09-03,Klebsiella pneumoniae,Wound,66,Female,Outpatient,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+550,2023-01-09,S. aureus (MRSA),Blood,81,Female,Outpatient,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+551,2025-04-04,S. aureus (MRSA),Blood,37,Male,Neonatal Ward,Walk-in,Yes,Amoxicillin,Resistant
+552,2024-07-16,E_coli,Wound,67,Male,Neonatal Ward,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+553,2024-06-17,S. aureus (MRSA),Urine,48,Female,General Medicine,Walk-in,No,Gentamicin,Susceptible
+554,2025-10-10,S. aureus (MRSA),Blood,89,Female,Neonatal Ward,Walk-in,No,Amoxicillin,Susceptible
+555,2023-10-15,E_coli,Blood,40,Male,ICU,Walk-in,Yes,Amoxicillin,Resistant
+556,2023-08-08,E_coli,Blood,71,Male,Neonatal Ward,Walk-in,Yes,Gentamicin,Resistant
+557,2025-03-01,Pseudomonas,Sputum,12,Male,General Medicine,Walk-in,Unknown,Ceftriaxone,Resistant
+558,2023-03-21,S. aureus (MRSA),Urine,42,Male,General Medicine,Walk-in,Yes,Amoxicillin,Susceptible
+559,2025-01-03,Pseudomonas,Blood,47,Male,General Medicine,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+560,2025-09-16,S. aureus (MRSA),Urine,87,Male,Maternity,Walk-in,No,Gentamicin,Susceptible
+561,2023-05-01,Klebsiella pneumoniae,Sputum,68,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+562,2024-11-21,E_coli,Sputum,66,Male,Maternity,Walk-in,Yes,Gentamicin,Susceptible
+563,2023-01-10,Klebsiella pneumoniae,CSF,90,Male,ICU,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+564,2025-04-17,Pseudomonas,Wound,62,Male,ICU,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+565,2023-01-09,Pseudomonas,CSF,89,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+566,2025-09-27,S. aureus (MRSA),Wound,11,Female,ICU,Walk-in,Unknown,Gentamicin,Resistant
+567,2024-08-25,Klebsiella pneumoniae,CSF,65,Female,General Medicine,Walk-in,Unknown,Meropenem,Susceptible
+568,2023-08-21,E_coli,CSF,56,Female,ICU,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+569,2023-03-15,E_coli,Sputum,39,Male,Maternity,Walk-in,Unknown,Ciprofloxacin,Susceptible
+570,2025-10-22,S. aureus (MRSA),CSF,55,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+571,2023-10-24,S. aureus (MRSA),Wound,7,Male,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+572,2025-09-05,Pseudomonas,Urine,12,Male,Neonatal Ward,Walk-in,Unknown,Ceftriaxone,Susceptible
+573,2023-06-14,Klebsiella pneumoniae,Wound,44,Male,Outpatient,Walk-in,No,Meropenem,Resistant
+574,2023-12-03,E_coli,Blood,29,Female,ICU,Walk-in,Unknown,Ciprofloxacin,Susceptible
+575,2024-09-10,S. aureus (MRSA),Urine,81,Female,General Medicine,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+576,2023-05-04,Klebsiella pneumoniae,Sputum,30,Female,Maternity,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+577,2024-10-13,Klebsiella pneumoniae,Sputum,22,Male,ICU,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+578,2025-10-15,Pseudomonas,CSF,43,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+579,2023-10-15,E_coli,Sputum,75,Female,Maternity,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+580,2023-02-28,Pseudomonas,Wound,27,Female,Outpatient,Walk-in,Yes,Ciprofloxacin,Susceptible
+581,2025-01-12,S. aureus (MRSA),Sputum,82,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Resistant
+582,2024-05-15,S. aureus (MRSA),CSF,9,Female,Outpatient,Walk-in,Yes,Amoxicillin,Resistant
+583,2023-08-30,Klebsiella pneumoniae,Blood,86,Male,General Medicine,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+584,2024-06-29,E_coli,Urine,55,Male,Outpatient,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+585,2025-12-27,S. aureus (MRSA),Blood,2,Male,Outpatient,Walk-in,No,Amoxicillin,Resistant
+586,2025-11-21,Klebsiella pneumoniae,Wound,87,Female,ICU,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+587,2023-08-15,E_coli,Wound,66,Male,Outpatient,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+588,2025-12-24,S. aureus (MRSA),Sputum,21,Female,General Medicine,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+589,2023-11-29,Klebsiella pneumoniae,Blood,20,Male,Neonatal Ward,Walk-in,No,Meropenem,Susceptible
+590,2023-07-16,E_coli,CSF,64,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+591,2024-04-29,E_coli,Urine,31,Female,General Medicine,Walk-in,Yes,Ciprofloxacin,Susceptible
+592,2025-09-02,E_coli,Urine,29,Male,Outpatient,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+593,2024-06-16,Klebsiella pneumoniae,Urine,43,Male,Outpatient,Hospitalized > 48hrs,Yes,Ceftriaxone,Susceptible
+594,2025-07-04,E_coli,Blood,88,Male,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+595,2025-05-28,S. aureus (MRSA),Blood,76,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+596,2024-08-06,E_coli,CSF,6,Female,ICU,Walk-in,Unknown,Ciprofloxacin,Resistant
+597,2024-04-13,E_coli,Blood,56,Female,ICU,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+598,2025-03-26,E_coli,Urine,26,Female,Maternity,Walk-in,Yes,Amoxicillin,Resistant
+599,2024-11-07,S. aureus (MRSA),Blood,5,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+600,2024-01-29,Pseudomonas,Wound,81,Male,ICU,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+601,2025-10-12,Pseudomonas,CSF,58,Female,ICU,Walk-in,Yes,Meropenem,Resistant
+602,2023-09-18,Pseudomonas,Urine,90,Male,ICU,Walk-in,Yes,Ceftriaxone,Resistant
+603,2024-07-03,E_coli,Wound,22,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+604,2023-09-28,S. aureus (MRSA),Urine,70,Female,Maternity,Walk-in,No,Amoxicillin,Susceptible
+605,2025-02-18,Klebsiella pneumoniae,Urine,86,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+606,2024-10-13,Klebsiella pneumoniae,CSF,76,Female,Neonatal Ward,Walk-in,Yes,Ceftriaxone,Resistant
+607,2025-02-04,S. aureus (MRSA),Wound,66,Male,Maternity,Hospitalized > 48hrs,Unknown,Amoxicillin,Susceptible
+608,2024-01-15,Klebsiella pneumoniae,Urine,69,Female,General Medicine,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+609,2024-05-24,E_coli,CSF,70,Female,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+610,2024-03-12,S. aureus (MRSA),Sputum,46,Female,General Medicine,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+611,2024-04-23,S. aureus (MRSA),Sputum,84,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+612,2025-04-18,E_coli,Urine,56,Female,Outpatient,Walk-in,Yes,Gentamicin,Susceptible
+613,2024-01-16,S. aureus (MRSA),Sputum,14,Female,Maternity,Walk-in,Yes,Gentamicin,Resistant
+614,2024-11-25,S. aureus (MRSA),Sputum,57,Female,General Medicine,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+615,2023-11-20,Klebsiella pneumoniae,Wound,36,Male,ICU,Walk-in,Unknown,Meropenem,Susceptible
+616,2024-01-29,S. aureus (MRSA),Blood,48,Male,ICU,Walk-in,Yes,Amoxicillin,Resistant
+617,2024-06-06,S. aureus (MRSA),Urine,51,Female,Outpatient,Walk-in,No,Gentamicin,Resistant
+618,2024-11-12,Pseudomonas,Blood,87,Male,Neonatal Ward,Walk-in,Yes,Ceftriaxone,Resistant
+619,2024-04-19,Klebsiella pneumoniae,Wound,13,Male,Outpatient,Walk-in,Unknown,Ceftriaxone,Resistant
+620,2023-09-06,Klebsiella pneumoniae,Urine,74,Female,Outpatient,Walk-in,Unknown,Meropenem,Resistant
+621,2025-05-02,Pseudomonas,Wound,2,Male,ICU,Walk-in,Yes,Ceftriaxone,Resistant
+622,2024-05-13,S. aureus (MRSA),Wound,76,Male,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Resistant
+623,2025-09-08,E_coli,Sputum,2,Male,Outpatient,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+624,2025-08-19,Pseudomonas,CSF,50,Male,Outpatient,Walk-in,Unknown,Ceftriaxone,Susceptible
+625,2024-03-11,S. aureus (MRSA),Urine,9,Male,General Medicine,Walk-in,No,Gentamicin,Susceptible
+626,2025-07-21,Klebsiella pneumoniae,Wound,90,Female,General Medicine,Hospitalized > 48hrs,No,Meropenem,Susceptible
+627,2025-01-31,Klebsiella pneumoniae,Wound,70,Male,Outpatient,Walk-in,Unknown,Ceftriaxone,Resistant
+628,2024-07-15,Pseudomonas,Wound,11,Female,Neonatal Ward,Walk-in,Unknown,Meropenem,Susceptible
+629,2023-08-22,S. aureus (MRSA),Wound,21,Female,ICU,Walk-in,No,Gentamicin,Resistant
+630,2024-02-09,S. aureus (MRSA),CSF,58,Female,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+631,2025-02-06,S. aureus (MRSA),Urine,4,Female,ICU,Walk-in,Unknown,Amoxicillin,Resistant
+632,2024-02-09,S. aureus (MRSA),CSF,23,Male,General Medicine,Walk-in,No,Gentamicin,Susceptible
+633,2023-12-18,Klebsiella pneumoniae,CSF,41,Female,Outpatient,Walk-in,Yes,Meropenem,Resistant
+634,2024-09-24,Pseudomonas,Wound,87,Male,Outpatient,Walk-in,Yes,Ciprofloxacin,Susceptible
+635,2025-01-15,Pseudomonas,Sputum,58,Male,Neonatal Ward,Walk-in,Unknown,Ciprofloxacin,Susceptible
+636,2025-11-14,E_coli,Blood,35,Male,Outpatient,Walk-in,Unknown,Amoxicillin,Susceptible
+637,2025-07-18,E_coli,CSF,31,Male,Outpatient,Walk-in,Yes,Amoxicillin,Resistant
+638,2025-02-02,S. aureus (MRSA),Urine,10,Male,Outpatient,Walk-in,Yes,Gentamicin,Susceptible
+639,2023-06-28,E_coli,Blood,57,Female,Neonatal Ward,Walk-in,Unknown,Amoxicillin,Susceptible
+640,2025-09-18,E_coli,CSF,77,Male,Neonatal Ward,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+641,2024-03-27,Pseudomonas,Wound,35,Male,Maternity,Walk-in,Yes,Meropenem,Resistant
+642,2025-06-19,S. aureus (MRSA),Wound,60,Female,General Medicine,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+643,2024-12-12,E_coli,Sputum,85,Female,Neonatal Ward,Walk-in,No,Ciprofloxacin,Susceptible
+644,2024-03-05,Klebsiella pneumoniae,Blood,84,Male,ICU,Hospitalized > 48hrs,No,Meropenem,Resistant
+645,2025-09-14,E_coli,Wound,49,Male,Neonatal Ward,Hospitalized > 48hrs,No,Gentamicin,Susceptible
+646,2023-10-10,Pseudomonas,CSF,71,Male,Neonatal Ward,Walk-in,No,Ceftriaxone,Resistant
+647,2025-06-13,S. aureus (MRSA),Blood,13,Male,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+648,2025-06-07,Klebsiella pneumoniae,Sputum,36,Male,ICU,Walk-in,No,Gentamicin,Susceptible
+649,2024-01-31,Klebsiella pneumoniae,Sputum,83,Female,Outpatient,Walk-in,Yes,Gentamicin,Susceptible
+650,2023-07-28,E_coli,CSF,56,Male,Maternity,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+651,2023-08-02,Klebsiella pneumoniae,Sputum,9,Male,ICU,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+652,2023-05-03,Klebsiella pneumoniae,CSF,7,Male,Outpatient,Walk-in,Unknown,Meropenem,Resistant
+653,2024-06-22,Klebsiella pneumoniae,Sputum,24,Female,Neonatal Ward,Walk-in,No,Ceftriaxone,Resistant
+654,2025-04-26,S. aureus (MRSA),Urine,29,Male,ICU,Walk-in,No,Gentamicin,Susceptible
+655,2023-02-17,S. aureus (MRSA),Blood,27,Female,Maternity,Walk-in,Unknown,Amoxicillin,Resistant
+656,2025-03-14,S. aureus (MRSA),Blood,40,Female,Maternity,Walk-in,Unknown,Gentamicin,Resistant
+657,2025-09-01,Pseudomonas,Wound,23,Female,Maternity,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Resistant
+658,2024-05-16,Klebsiella pneumoniae,CSF,66,Male,General Medicine,Walk-in,Unknown,Gentamicin,Susceptible
+659,2025-09-26,S. aureus (MRSA),Blood,25,Female,General Medicine,Walk-in,Yes,Gentamicin,Susceptible
+660,2023-01-06,S. aureus (MRSA),Wound,3,Female,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+661,2023-06-11,S. aureus (MRSA),Wound,6,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+662,2024-09-04,Klebsiella pneumoniae,Urine,48,Male,General Medicine,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+663,2025-09-24,Pseudomonas,Sputum,50,Male,General Medicine,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+664,2025-02-14,Klebsiella pneumoniae,Sputum,67,Female,ICU,Walk-in,No,Meropenem,Susceptible
+665,2024-02-20,E_coli,Blood,57,Female,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Resistant
+666,2023-11-01,S. aureus (MRSA),Wound,31,Male,Outpatient,Walk-in,Unknown,Amoxicillin,Susceptible
+667,2024-09-12,Pseudomonas,CSF,57,Male,General Medicine,Walk-in,Unknown,Ceftriaxone,Resistant
+668,2023-02-09,E_coli,Sputum,47,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+669,2023-06-16,E_coli,Urine,71,Male,General Medicine,Walk-in,Yes,Amoxicillin,Resistant
+670,2024-05-08,Klebsiella pneumoniae,Wound,7,Male,Maternity,Hospitalized > 48hrs,No,Meropenem,Susceptible
+671,2024-03-16,S. aureus (MRSA),CSF,36,Female,General Medicine,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+672,2024-10-28,Klebsiella pneumoniae,Wound,71,Female,Maternity,Walk-in,Yes,Gentamicin,Susceptible
+673,2023-08-24,E_coli,Wound,66,Female,Maternity,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+674,2024-05-08,S. aureus (MRSA),Sputum,60,Female,Maternity,Walk-in,Unknown,Amoxicillin,Susceptible
+675,2024-06-11,Klebsiella pneumoniae,Blood,47,Female,ICU,Walk-in,Unknown,Gentamicin,Susceptible
+676,2024-09-07,Pseudomonas,Urine,24,Female,ICU,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+677,2024-02-05,E_coli,Wound,86,Female,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+678,2023-10-16,Pseudomonas,CSF,44,Female,Maternity,Walk-in,Yes,Ciprofloxacin,Susceptible
+679,2023-12-20,E_coli,Wound,35,Female,General Medicine,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+680,2024-01-12,S. aureus (MRSA),CSF,86,Male,Outpatient,Walk-in,No,Gentamicin,Resistant
+681,2024-11-20,E_coli,Urine,68,Male,Outpatient,Walk-in,Unknown,Amoxicillin,Susceptible
+682,2024-02-26,Klebsiella pneumoniae,Sputum,2,Female,Neonatal Ward,Walk-in,No,Meropenem,Susceptible
+683,2025-02-07,Pseudomonas,Urine,13,Male,General Medicine,Hospitalized > 48hrs,No,Meropenem,Resistant
+684,2025-05-09,S. aureus (MRSA),CSF,86,Male,General Medicine,Walk-in,Unknown,Amoxicillin,Susceptible
+685,2023-03-07,Pseudomonas,Urine,76,Male,ICU,Hospitalized > 48hrs,Yes,Meropenem,Susceptible
+686,2024-12-09,Klebsiella pneumoniae,Sputum,21,Male,ICU,Walk-in,Unknown,Meropenem,Susceptible
+687,2024-10-29,S. aureus (MRSA),Urine,65,Female,ICU,Walk-in,No,Gentamicin,Resistant
+688,2024-06-16,E_coli,Wound,56,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Gentamicin,Susceptible
+689,2023-12-25,Pseudomonas,Urine,32,Male,Outpatient,Walk-in,No,Meropenem,Resistant
+690,2024-11-13,Klebsiella pneumoniae,Sputum,62,Male,Maternity,Walk-in,Unknown,Ceftriaxone,Susceptible
+691,2023-03-05,E_coli,Urine,62,Female,Maternity,Walk-in,Yes,Amoxicillin,Susceptible
+692,2024-05-02,Pseudomonas,Wound,40,Female,ICU,Hospitalized > 48hrs,Yes,Ceftriaxone,Resistant
+693,2025-06-02,Pseudomonas,Blood,29,Female,Outpatient,Walk-in,Yes,Ceftriaxone,Resistant
+694,2025-09-30,E_coli,Sputum,48,Male,General Medicine,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+695,2023-05-15,S. aureus (MRSA),Sputum,70,Female,Maternity,Walk-in,Unknown,Amoxicillin,Susceptible
+696,2025-06-04,Pseudomonas,CSF,77,Male,Maternity,Walk-in,Unknown,Ceftriaxone,Susceptible
+697,2024-07-20,Pseudomonas,Urine,61,Male,General Medicine,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+698,2023-04-18,Pseudomonas,Wound,40,Male,General Medicine,Hospitalized > 48hrs,No,Meropenem,Susceptible
+699,2023-10-27,E_coli,CSF,62,Female,Maternity,Walk-in,Unknown,Gentamicin,Susceptible
+700,2023-05-03,S. aureus (MRSA),Blood,4,Male,ICU,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+701,2025-12-18,Klebsiella pneumoniae,CSF,42,Male,Maternity,Walk-in,Yes,Gentamicin,Resistant
+702,2023-11-11,Klebsiella pneumoniae,Sputum,23,Female,Outpatient,Hospitalized > 48hrs,No,Meropenem,Resistant
+703,2023-09-08,E_coli,Blood,1,Female,Neonatal Ward,Walk-in,No,Ciprofloxacin,Susceptible
+704,2024-09-13,S. aureus (MRSA),CSF,90,Male,General Medicine,Walk-in,Yes,Gentamicin,Susceptible
+705,2023-09-05,Pseudomonas,Blood,20,Female,ICU,Walk-in,No,Ciprofloxacin,Resistant
+706,2024-01-08,E_coli,Sputum,82,Female,Neonatal Ward,Walk-in,Yes,Amoxicillin,Resistant
+707,2025-07-06,Klebsiella pneumoniae,Wound,33,Male,Maternity,Walk-in,Unknown,Meropenem,Susceptible
+708,2023-09-07,S. aureus (MRSA),Blood,40,Male,ICU,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+709,2023-11-23,S. aureus (MRSA),Sputum,14,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Amoxicillin,Resistant
+710,2023-01-14,Pseudomonas,Urine,86,Female,ICU,Walk-in,Yes,Ceftriaxone,Resistant
+711,2025-04-18,Klebsiella pneumoniae,Sputum,15,Male,Maternity,Hospitalized > 48hrs,Unknown,Ceftriaxone,Susceptible
+712,2024-12-11,S. aureus (MRSA),Sputum,69,Female,ICU,Walk-in,Unknown,Amoxicillin,Resistant
+713,2023-08-29,Pseudomonas,Blood,56,Female,Neonatal Ward,Hospitalized > 48hrs,No,Ceftriaxone,Susceptible
+714,2023-07-03,S. aureus (MRSA),Urine,58,Male,Maternity,Hospitalized > 48hrs,No,Amoxicillin,Resistant
+715,2024-04-19,Pseudomonas,CSF,90,Male,Maternity,Hospitalized > 48hrs,No,Meropenem,Susceptible
+716,2024-12-03,Klebsiella pneumoniae,Sputum,83,Male,Maternity,Walk-in,No,Ceftriaxone,Resistant
+717,2023-09-20,Pseudomonas,Wound,42,Female,ICU,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+718,2024-06-04,S. aureus (MRSA),CSF,3,Female,Outpatient,Walk-in,Unknown,Gentamicin,Susceptible
+719,2023-02-11,S. aureus (MRSA),Sputum,53,Male,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+720,2025-04-29,E_coli,Wound,74,Female,ICU,Hospitalized > 48hrs,No,Ciprofloxacin,Susceptible
+721,2025-11-28,S. aureus (MRSA),Urine,75,Female,General Medicine,Hospitalized > 48hrs,Yes,Gentamicin,Susceptible
+722,2025-11-04,S. aureus (MRSA),CSF,55,Female,ICU,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+723,2025-10-20,Pseudomonas,CSF,66,Male,Maternity,Walk-in,Unknown,Meropenem,Susceptible
+724,2024-03-17,Klebsiella pneumoniae,Blood,64,Female,Neonatal Ward,Hospitalized > 48hrs,No,Ceftriaxone,Resistant
+725,2023-12-20,Pseudomonas,Blood,89,Male,General Medicine,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+726,2024-10-26,Klebsiella pneumoniae,Sputum,29,Male,Neonatal Ward,Walk-in,No,Gentamicin,Susceptible
+727,2025-04-05,E_coli,Wound,48,Female,Neonatal Ward,Walk-in,Yes,Gentamicin,Resistant
+728,2025-07-17,S. aureus (MRSA),Wound,18,Female,Maternity,Walk-in,Yes,Amoxicillin,Susceptible
+729,2024-04-28,Klebsiella pneumoniae,Urine,72,Female,Neonatal Ward,Hospitalized > 48hrs,Unknown,Meropenem,Susceptible
+730,2025-06-01,Klebsiella pneumoniae,Wound,39,Female,Neonatal Ward,Walk-in,Yes,Gentamicin,Susceptible
+731,2025-09-05,Klebsiella pneumoniae,CSF,46,Female,ICU,Walk-in,Unknown,Meropenem,Resistant
+732,2025-03-06,E_coli,Wound,64,Male,General Medicine,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+733,2024-03-22,Klebsiella pneumoniae,Wound,61,Male,General Medicine,Hospitalized > 48hrs,No,Meropenem,Susceptible
+734,2024-02-26,S. aureus (MRSA),Wound,69,Female,Maternity,Walk-in,Unknown,Amoxicillin,Resistant
+735,2024-08-30,Klebsiella pneumoniae,Wound,25,Male,Maternity,Walk-in,No,Meropenem,Susceptible
+736,2023-10-30,Pseudomonas,Urine,39,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Ciprofloxacin,Susceptible
+737,2024-12-04,S. aureus (MRSA),Wound,85,Male,Neonatal Ward,Walk-in,Unknown,Gentamicin,Susceptible
+738,2024-06-22,S. aureus (MRSA),Wound,4,Female,Neonatal Ward,Hospitalized > 48hrs,Yes,Amoxicillin,Resistant
+739,2023-08-27,E_coli,Wound,44,Male,Neonatal Ward,Walk-in,Yes,Ciprofloxacin,Susceptible
+740,2025-10-18,Pseudomonas,Wound,47,Male,General Medicine,Hospitalized > 48hrs,Unknown,Meropenem,Resistant
+741,2025-10-18,Pseudomonas,Wound,18,Male,Neonatal Ward,Hospitalized > 48hrs,Unknown,Ciprofloxacin,Susceptible
+742,2025-12-08,E_coli,Blood,17,Female,ICU,Hospitalized > 48hrs,Yes,Amoxicillin,Susceptible
+743,2024-04-17,Pseudomonas,Sputum,67,Female,General Medicine,Walk-in,Yes,Meropenem,Resistant
+744,2024-12-16,E_coli,Urine,63,Male,Neonatal Ward,Walk-in,Yes,Ciprofloxacin,Susceptible
+745,2023-09-17,E_coli,Wound,28,Female,Outpatient,Hospitalized > 48hrs,Yes,Ciprofloxacin,Resistant
+746,2024-12-05,E_coli,Urine,63,Female,Neonatal Ward,Walk-in,No,Gentamicin,Susceptible
+747,2025-07-31,Klebsiella pneumoniae,Blood,77,Male,Outpatient,Hospitalized > 48hrs,Yes,Gentamicin,Resistant
+748,2024-10-12,Klebsiella pneumoniae,Wound,88,Male,ICU,Hospitalized > 48hrs,Unknown,Ceftriaxone,Resistant
+749,2025-02-26,E_coli,Sputum,61,Female,General Medicine,Hospitalized > 48hrs,No,Ciprofloxacin,Resistant
+750,2024-02-23,S. aureus (MRSA),Wound,87,Female,ICU,Walk-in,No,Amoxicillin,Resistant
